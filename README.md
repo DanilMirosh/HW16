@@ -10,7 +10,7 @@
 
 UML-схема классов поможет вам создать модели, она описывает сущности и связи между ними.
 
-![Screenshot 2021-09-05 at 13.41.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e1f9e83-4cfe-4415-a2e3-9c267a65faac/Screenshot_2021-09-05_at_13.41.07.png)
+![Screenshot 2021-09-05 at 13.41.07.png](/Users/danil/PycharmProjects/HW16/img.png)
 
 **Шаг 2**
 
